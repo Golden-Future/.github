@@ -1,0 +1,2 @@
+# .github
+Golden-Future-Company
